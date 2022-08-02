@@ -1,0 +1,4 @@
+Due to large size of the data we are unable to upload it to Github.
+Kindly access the dataset using the original link below
+
+https://www.kaggle.com/selener/consumer-complaint-database
